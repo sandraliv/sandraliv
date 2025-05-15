@@ -11,7 +11,9 @@
 
 🌱Þessa stundina er ég að vinna að Android appi (Kotlin) sem tengist tæki yfir Bluetooth og birtir gögnin frá skynjurum þess í appinu. Eins og er tækið að simulate-a gögn úr hjartsláttamæli á meðan þróun appsins stendur. 
 
-💠[Hér](https://github.com/sandraliv/HeartRateMonitor) má finna kóðann.
+💠[Hér](https://github.com/sandraliv/HeartRateMonitor) má finna kóðann fyrir HeartRateMonitor appið.
+
+💠[Hér](https://github.com/sandraliv/RecipeApp/) má sömuleiðis finna annað Android app sem ég og tveir samnemendur mínir gerðum í áfanganum Hugbúnaðarverkefni2 sem er uppskrifta-app (RecipeApp). [Hér](https://github.com/sandraliv/verkefni) er svo RESTApi bakendinn sem við gerðum fyrir appið með Java Spring Boot.
 
 
 
