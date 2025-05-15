@@ -1,7 +1,9 @@
 ## Hæ velkomin, ég heiti Sandra 👋
 
 💃Ég er nemandi í tölvunarfræði B.Sc. við Háskóla Íslands og útskrifast næstkomandi 14. júní.
+
 💻Mér finnst sérstaklega gaman af Vefforritun.
+
 🌱Þessa stundina er ég að vinna að Android appi sem tengist tæki yfir Bluetooth og birtir gögnin frá skynjurum þess í appinu. Eins og er tækið að simulate-a gögn úr hjartsláttamæli á meðan þróun appsins stendur. [Hér](https://github.com/sandraliv/HeartRateMonitor) má finna verkefnið.
 
 
